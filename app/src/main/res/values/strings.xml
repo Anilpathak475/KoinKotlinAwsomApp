@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hse</string>
+    <string name="database">hse.db</string>
+    <string name="price">%s \u20ac</string>
+    <string name="imageUrl">https://pic.hse24-dach.net/media/de/products/%spics480.jpg</string>
+
+</resources>
